@@ -42,7 +42,21 @@ A comprehensive guide covering authentication, sessions, tokens, and middleware 
 
 Miscellaneous educational topics that don't fit into specific categories. This folder contains various software engineering concepts, tips, and guides.
 
-[→ Browse Random Topics](./Random/)
+#### [Network-Level Failures vs HTTP Errors](./Random/network-level-failures-vs-http-errors/)
+
+A comprehensive guide explaining the critical distinction between network-level failures and HTTP errors, including detection strategies, retry logic, error handling patterns, and best practices for building resilient applications.
+
+**What's Inside:**
+- Clear definitions and characteristics of each error type
+- Implementation examples with code
+- Retry strategies and best practices
+- Common pitfalls and how to avoid them
+- Testing approaches for both error types
+- Debugging tips and monitoring strategies
+
+[→ Explore Network Errors Guide](./Random/network-level-failures-vs-http-errors/)
+
+[→ Browse All Random Topics](./Random/)
 
 ---
 
@@ -149,6 +163,7 @@ This repository follows these principles:
 ## 🔗 Quick Links
 
 - [Authentication & Token Management Guide](./authentication-teaching-guide/)
+- [Network-Level Failures vs HTTP Errors](./Random/network-level-failures-vs-http-errors/)
 - [Random Topics](./Random/)
 - [Repository Issues](https://github.com/Hany-R-Mahmoud/continuous-software-education/issues)
 - [Repository Discussions](https://github.com/Hany-R-Mahmoud/continuous-software-education/discussions)
