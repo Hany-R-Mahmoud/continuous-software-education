@@ -5,20 +5,6 @@
 ---
 
 ## 📚 Overview
-## Random Topics
-
-### Bianco API Integration
-> **Production-ready API architecture for React Native/Expo mobile applications**
-
-Comprehensive guide covering:
-- Feature-based API organization
-- React Query integration
-- Axios interceptors for token management
-- Global error handling (401 auto-logout)
-- Type-safe API layer
-- Complete implementation walkthrough
-
-📁 **Location:** [`Random/bianco-api-integration/`](Random/bianco-api-integration/)
 
 This repository serves as a centralized hub for continuous learning in software engineering. Each topic is organized into its own subfolder with comprehensive guides, examples, and resources.
 
