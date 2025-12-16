@@ -561,7 +561,24 @@ For advanced teams, Cursor provides an **Admin API** for programmatic access to 
 - [Cursor Security & SSO Guide](https://www.aidoczh.com/cursor/account/teams/members.html)
 - [Cursor Admin API Documentation](https://anysphere.mintlify.app/en/account/teams/admin-api)
 
+## Resources
+
+- [Cursor Team Management Documentation](https://cursordocs.com/en/docs/plans/business/team-management)
+- [Cursor Members and Roles Guide](https://www.aidoczh.com/cursor/account/teams/members.html)
+- [Cursor Analytics Documentation](https://www.aidoczh.com/cursor/account/teams/analytics.html)
+- [Cursor Security & SSO Guide](https://www.aidoczh.com/cursor/account/teams/members.html)
+- [Cursor Admin API Documentation](https://anysphere.mintlify.app/en/account/teams/admin-api)
+
 ---
+
+## Notes
+
+- Team plans require at least one paid Admin or Member
+- Billing is prorated when members are added or removed
+- SSO is available on Business and Enterprise plans only
+- Admin visibility focuses on aggregate metrics, not individual work content
+- Usage controls help manage costs and ensure fair resource allocation
+- Admin API enables custom integrations and reporting
 
 ## Notes
 
