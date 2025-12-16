@@ -28,6 +28,8 @@ This repository serves as a centralized hub for continuous learning in software 
 continuous-software-education/
 ├── README.md                          # This file
 ├── authentication-teaching-guide/     # Authentication & Token Management
+├── http-client-configuration/         # HTTP Client Configuration & Axios Setup
+├── unit-testing/                      # Unit Testing Guide
 ├── Random/                            # Miscellaneous topics
 └── [future topics]/                   # Additional educational topics
 ```
@@ -49,6 +51,21 @@ A comprehensive guide covering authentication, sessions, tokens, and middleware 
 - Visual diagrams and infographics
 
 [→ Explore Authentication Guide](./authentication-teaching-guide/)
+
+---
+
+### [HTTP Client Configuration & Axios Setup](./http-client-configuration/)
+
+A comprehensive guide to understanding HTTP clients, authentication, and axios configuration in modern web and mobile applications.
+
+**What's Inside:**
+
+- 5 focused modules covering HTTP client fundamentals, Basic Auth, encoding, and axios configuration
+- Complete implementation examples with TypeScript
+- Real-world patterns for token management and error handling
+- Advanced configuration techniques and best practices
+
+[→ Explore HTTP Client Configuration Guide](./http-client-configuration/)
 
 ---
 
@@ -177,6 +194,8 @@ This repository follows these principles:
 ## 🔗 Quick Links
 
 - [Authentication & Token Management Guide](./authentication-teaching-guide/)
+- [HTTP Client Configuration & Axios Setup](./http-client-configuration/)
+- [Unit Testing Guide](./unit-testing/)
 - [Network-Level Failures vs HTTP Errors](./Random/network-level-failures-vs-http-errors/)
 - [Random Topics](./Random/)
 - [Repository Issues](https://github.com/Hany-R-Mahmoud/continuous-software-education/issues)
